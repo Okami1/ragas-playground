@@ -1,0 +1,15 @@
+# Environment
+.env
+*.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Editors
+.vscode/
+
+# Project output
+runs/
